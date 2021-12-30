@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=PB14 Pin=Q1-2
+Removed Pin From Net: NetName=PA1 Pin=Q2-2
+Added Component: Designator=J1(Battery)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PB14 Pin=Q1-1
+Added Pin To Net: NetName=PA1 Pin=Q2-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-4
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-3
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=U4-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=U5-4
+Added Net: Name=NetQ2_2
+Added Member To Class: ClassName=Schematics Member=Component J1 Battery
+Added Room: Name=Schematics

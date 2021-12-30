@@ -1,0 +1,6 @@
+Added Component: Designator=J1(Battery)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Member To Class: ClassName=Schematics Member=Component J1 Battery
+Added Room: Name=Schematics
